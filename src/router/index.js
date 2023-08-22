@@ -4,10 +4,11 @@ import AboutPage from "@/components/AboutPage.vue"
 import UserList from "@/components/UserList.vue"
 
 export default new Router({
+  mode: "history",
   routes: [
     {
       path: "/",
-      name: "home",
+      name: "UserList",
       component: UserList,
     },
     {

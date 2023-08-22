@@ -1,9 +1,9 @@
 <template>
   <div
-    style="height: 70"
-    class="d-flex justify-content-center align-items-center w-50 h-50"
+   
+    class="d-flex justify-content-center align-items-center w-100 "
   >
-    <h1 class="">This is about page</h1>
+    <h1 class="mt-5">This is about page</h1>
   </div>
 </template>
 
